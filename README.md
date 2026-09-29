@@ -1,3 +1,8 @@
+> [!NOTE]
+> Este repositório é um **fork** de [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch), mantido na minha conta para estudo e acompanhamento do projeto original. A autoria e a documentação principal pertencem ao projeto upstream.
+
+---
+
 # Fastfetch
 
 [![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/fastfetch-cli/fastfetch/ci.yml)](https://github.com/fastfetch-cli/fastfetch/actions)
